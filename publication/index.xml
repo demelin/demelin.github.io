@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Denis Emelin</title>
+    <link>https://demelin.github.io/publication/</link>
+      <atom:link href="https://demelin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://demelin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://demelin.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Injecting Domain Knowledge in Language Models for Task-oriented Dialogue Systems</title>
+      <link>https://demelin.github.io/publication/injecting/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/injecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information</title>
+      <link>https://demelin.github.io/publication/reducing/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
+      <link>https://demelin.github.io/publication/bench/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wino-X: Multilingual Winograd Schemas for Commonsense Reasoning and Coreference Resolution</title>
+      <link>https://demelin.github.io/publication/winox/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/winox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral Stories: Situated Reasoning about Norms, Intents, Actions, and their Consequences</title>
+      <link>https://demelin.github.io/publication/moral/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/moral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks</title>
+      <link>https://demelin.github.io/publication/adversarial/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widening the Representation Bottleneck in Neural Machine Translation with Lexical Shortcuts</title>
+      <link>https://demelin.github.io/publication/bottleneck/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/bottleneck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The University of Edinburgh&#39;s Submissions to the WMT18 News Translation Task</title>
+      <link>https://demelin.github.io/publication/wmt18/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://demelin.github.io/publication/wmt18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
